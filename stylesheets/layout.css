@@ -1,0 +1,21 @@
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+header nav {
+  display: flex;
+  padding: 15px 20px 20px;
+  justify-content: space-between;
+  box-shadow: 0 6px 12px rgba(0, 0, 54, 0.25);
+}
+
+header img {
+height: 50px;
+}
+
+h1 {
+  padding-top: 15px;
+  font-family: 'Futura', sans-serif;
+  font-size: 50px;
+}
